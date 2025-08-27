@@ -18,7 +18,7 @@ first_name = "Ada"
 last_name = "Lovelace"
 print("Full name: " + first_name + " " + last_name)
 
-# Comma s Concatenation
+# Comma vs Concatenation
 print("Hello", "world!") # With comma
 print("Hello" + " "+ "World!") # With Concatenation
 
